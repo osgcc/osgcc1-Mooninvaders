@@ -1,0 +1,32 @@
+Welcome to the game of mooninites. This is like a space invader game.
+Very simple, kill the oncoming cops, and earn points for a high 
+score. Each raid gets progressively harder, until level 40.  Good 
+luck in getting there. If you fail to shoot all the cops, then 
+you'll lose a joint.
+
+INPUT
+    Move - arrow keys
+    Fire - space bar
+    Quad Laser - b
+    Quit - q
+
+SCORING
+    Points are awarded on kills, unused quad lasers, how quickly 
+    you get through a raid, and the highest level attained. No 
+    points are given using a quad laser.
+
+QUAD LASER
+    The ultimate laser weapon. Only use this when in a pinch. It 
+    will destroy all cops on the playing.
+
+BONUSES
+    Every 5 levels you'll recieve an extra joint. Every 10 levels 
+    you'll recieve an extra quad laser.
+
+CREDITS
+    Programmer/Graphix - Sour Swinger
+    Street Smarts - Clapton
+    Mooninite Idea - Adam Hobaugh
+    Space Invader Idea - Brian Madden
+
+SPECIAL THANKX TO PITT GEEKS & AQUA TEEN HUNGER FORCE
